@@ -1,3 +1,5 @@
+# The below project has been archived.
+
 # React Sales Dashboard with Theming
 
 A customizable React dashboard application for platform sellers to track their sales. Built using React and JSX, this dashboard supports dynamic theming to fit your brand.
