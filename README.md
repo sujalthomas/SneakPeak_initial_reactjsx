@@ -35,7 +35,8 @@ npm start
 ```
 
 ```
-![demo](<Screenshot 2023-08-02 at 6.30.46 PM.png>)
+<img width="1410" alt="Screenshot 2023-08-02 at 6 30 46 PM" src="https://github.com/sujalthomas/SneakPeak_initial_reactjsx/assets/42236789/0ccff332-aab7-44d3-a453-ab8b22a3a349">
+
 ```
 
 The application should now be running on [http://localhost:3000](http://localhost:3000).
